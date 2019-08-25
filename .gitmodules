@@ -2,3 +2,8 @@
 	path = OCA/hr
 	url = git@github.com:OCA/hr.git
 	branch = 12.0
+
+[submodule "gdgellatly/care_center"]
+	path = gdgellatly/care_center
+	url = git@github.com:gdgellatly/care_center.git
+	branch = master
